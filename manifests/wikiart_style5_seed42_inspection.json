@@ -1,0 +1,98 @@
+{
+  "dataset": {
+    "repo": "huggan/wikiart",
+    "revision": "d559852d2b232e0fcf195e775866964f0564f2b5",
+    "label": "style",
+    "classes": [
+      "Baroque",
+      "Cubism",
+      "Impressionism",
+      "Pop_Art",
+      "Ukiyo_e"
+    ],
+    "class_to_idx": {
+      "Baroque": 0,
+      "Cubism": 1,
+      "Impressionism": 2,
+      "Pop_Art": 3,
+      "Ukiyo_e": 4
+    },
+    "metadata_rows": 1500,
+    "image_files": 1500,
+    "class_counts": {
+      "Baroque": 300,
+      "Cubism": 300,
+      "Impressionism": 300,
+      "Pop_Art": 300,
+      "Ukiyo_e": 300
+    }
+  },
+  "image_integrity": {
+    "format_counts": {
+      "JPEG": 1500
+    },
+    "dimension_counts": {
+      "128x128": 1500
+    },
+    "mode_counts": {
+      "RGB": 1500
+    },
+    "exact_duplicate_groups": 0,
+    "exact_duplicate_images": 0,
+    "errors": {
+      "duplicate_metadata_paths": [],
+      "missing_images": [],
+      "unlisted_images": [],
+      "label_or_index_mismatches": [],
+      "corrupt_images": [],
+      "wrong_dimensions": [],
+      "wrong_modes": [],
+      "wrong_formats": []
+    },
+    "class_counts_match_subset_plan": true
+  },
+  "artist_coverage": {
+    "unknown_artist_images": 1402,
+    "unknown_artist_fraction": 0.9346666666666666,
+    "named_artist_count": 15
+  },
+  "split": {
+    "seed": 42,
+    "fractions": {
+      "train": 0.7,
+      "validation": 0.15,
+      "test": 0.15
+    },
+    "row_count": 1500,
+    "counts": {
+      "train": 1050,
+      "validation": 225,
+      "test": 225
+    },
+    "class_counts": {
+      "train": {
+        "Baroque": 210,
+        "Cubism": 210,
+        "Impressionism": 210,
+        "Pop_Art": 210,
+        "Ukiyo_e": 210
+      },
+      "validation": {
+        "Baroque": 45,
+        "Cubism": 45,
+        "Impressionism": 45,
+        "Pop_Art": 45,
+        "Ukiyo_e": 45
+      },
+      "test": {
+        "Baroque": 45,
+        "Cubism": 45,
+        "Impressionism": 45,
+        "Pop_Art": 45,
+        "Ukiyo_e": 45
+      }
+    },
+    "named_artists_present_in_multiple_splits": 7,
+    "note": "Stratified by class. Artist grouping is not applied; Unknown Artist is a catch-all label."
+  }
+}
