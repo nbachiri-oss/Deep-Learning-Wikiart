@@ -1,0 +1,82 @@
+{
+  "epochs_run": 26,
+  "best_epoch": 16,
+  "best_validation_accuracy": 0.7555555555555555,
+  "best_validation_loss": 0.7005459647708469,
+  "train_accuracy_at_best_epoch": 0.8790476190476191,
+  "train_validation_accuracy_gap": 0.12349206349206354,
+  "stopped_early": true,
+  "training_seconds": 1.2587576660007471,
+  "model": "ResNet-18 frozen backbone + linear head",
+  "device": "mps",
+  "parameter_count": 11179077,
+  "trainable_parameter_count": 2565,
+  "feature_extraction_seconds": 5.213824000005843,
+  "backbone_sha256_before": "c6fc025cae67cee295fa18eff0998f3ae5f0e7a7d662ca38ab7be77ad49665c9",
+  "backbone_sha256_after": "c6fc025cae67cee295fa18eff0998f3ae5f0e7a7d662ca38ab7be77ad49665c9",
+  "backbone_unchanged": true,
+  "split_counts": {
+    "train": 1050,
+    "validation": 225
+  },
+  "feature_shapes": {
+    "train": [
+      1050,
+      512
+    ],
+    "validation": [
+      225,
+      512
+    ]
+  },
+  "preprocessing": {
+    "resize": [
+      256
+    ],
+    "crop": [
+      224
+    ],
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "config": {
+    "name": "resnet18_head",
+    "weights": "ResNet18_Weights.IMAGENET1K_V1",
+    "seed": 42,
+    "epochs": 60,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "extraction_batch_size": 32,
+    "patience": 10,
+    "trainable_layers": [
+      "fc"
+    ],
+    "feature_size": 512,
+    "checkpoint_selection": "validation accuracy, then validation loss"
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "test_evaluated": false,
+  "checkpoint": "outputs/resnet18_head/checkpoints/best.pt",
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "python": "3.12.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "epochs_run": 40,
+  "best_epoch": 8,
+  "best_validation_accuracy": 0.38222222222222224,
+  "best_validation_loss": 1.98378658718533,
+  "train_accuracy_at_best_epoch": 0.8666666666666667,
+  "train_validation_accuracy_gap": 0.48444444444444446,
+  "stopped_early": false,
+  "training_seconds": 30.903752624988556,
+  "model": "Regularized MLP",
+  "device": "mps",
+  "parameter_count": 3179525,
+  "config": {
+    "name": "weight_decay",
+    "dropout": 0.0,
+    "weight_decay": 0.0001,
+    "patience": null,
+    "seed": 42,
+    "epochs": 40,
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "input_size": 64,
+    "normalization_mean": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "normalization_std": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "checkpoint_selection": "validation accuracy, then validation loss",
+    "train_metrics": "eval mode after each epoch"
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "test_evaluated": false,
+  "checkpoint": "outputs/mlp_regularization/weight_decay/checkpoints/best.pt",
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "python": "3.12.0"
+  }
+}
