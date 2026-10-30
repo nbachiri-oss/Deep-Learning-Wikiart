@@ -1,2 +1,10 @@
 datasets>=3.0
 pillow>=10.0
+torch>=2.2
+torchvision>=0.17
+matplotlib>=3.8
+jupyterlab>=4.0
+ipykernel>=6.0
+nbformat>=5.9
+nbclient>=0.10
+pandas>=2.0

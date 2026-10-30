@@ -1,0 +1,46 @@
+{
+  "model": "Dense MLP baseline",
+  "architecture": "12288 -> 256 -> 128 -> 5 with ReLU; raw logits",
+  "loss": "CrossEntropyLoss",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "batch_size": 64,
+  "epochs_run": 40,
+  "best_checkpoint_selected_by": "maximum validation accuracy, then minimum validation loss",
+  "best_epoch": 28,
+  "best_validation_accuracy": 0.39555555555555555,
+  "best_validation_loss": 3.9057801776462133,
+  "train_accuracy_at_best_epoch": 0.9857142857142858,
+  "train_validation_accuracy_gap": 0.5901587301587302,
+  "parameter_count": 3179525,
+  "seed": 42,
+  "device": "mps",
+  "input": "RGB 64x64, normalized to [-1, 1]",
+  "split_counts_from_manifest": {
+    "train": {
+      "Baroque": 210,
+      "Cubism": 210,
+      "Impressionism": 210,
+      "Pop_Art": 210,
+      "Ukiyo_e": 210
+    },
+    "validation": {
+      "Baroque": 45,
+      "Cubism": 45,
+      "Impressionism": 45,
+      "Pop_Art": 45,
+      "Ukiyo_e": 45
+    },
+    "test": {
+      "Baroque": 45,
+      "Cubism": 45,
+      "Impressionism": 45,
+      "Pop_Art": 45,
+      "Ukiyo_e": 45
+    }
+  },
+  "test_evaluated": false,
+  "training_seconds": 21.72012474999792,
+  "checkpoint": "outputs/mlp_baseline/checkpoints/mlp_baseline_best.pt",
+  "history": "outputs/mlp_baseline/training_history.csv"
+}
