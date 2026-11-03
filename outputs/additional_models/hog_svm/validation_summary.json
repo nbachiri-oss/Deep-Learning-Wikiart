@@ -1,0 +1,54 @@
+{
+  "model": "Linear SVM on HOG + RGB histograms",
+  "config": {
+    "name": "hog_svm",
+    "seed": 42,
+    "input_size": 64,
+    "orientations": 9,
+    "pixels_per_cell": [
+      8,
+      8
+    ],
+    "cells_per_block": [
+      2,
+      2
+    ],
+    "color_bins_per_channel": 16,
+    "C_values": [
+      1e-06,
+      1e-05,
+      0.0001,
+      0.001,
+      0.01,
+      0.1,
+      1.0,
+      10.0
+    ],
+    "selection": "validation accuracy, then macro F1, then smaller C",
+    "scaling": "StandardScaler fitted on train only"
+  },
+  "best_C": 0.0001,
+  "best_validation_accuracy": 0.5244444444444445,
+  "validation_macro_f1": 0.5235139329720857,
+  "train_accuracy_at_best_epoch": 0.7971428571428572,
+  "test_evaluated": false,
+  "parameter_count": 9065,
+  "feature_size": 1812,
+  "feature_extraction_seconds": 0.9467372500075726,
+  "training_seconds": 13.131201041003806,
+  "converged": true,
+  "checkpoint": "outputs/additional_models/hog_svm/checkpoints/best.joblib",
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "sklearn": "1.9.1",
+    "skimage": "0.26.0",
+    "numpy": "2.5.4"
+  }
+}

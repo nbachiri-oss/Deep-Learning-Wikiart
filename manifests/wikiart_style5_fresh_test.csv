@@ -1,0 +1,501 @@
+relative_path,label,label_idx,split,seed,artist,id
+data/wikiart_style5_fresh_test/Baroque/s21_r0010.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0010
+data/wikiart_style5_fresh_test/Baroque/s21_r0011.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0011
+data/wikiart_style5_fresh_test/Baroque/s21_r0043.jpg,Baroque,0,test,20261034,frans-hals,s21_r0043
+data/wikiart_style5_fresh_test/Baroque/s21_r0048.jpg,Baroque,0,test,20261034,frans-hals,s21_r0048
+data/wikiart_style5_fresh_test/Baroque/s21_r0070.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0070
+data/wikiart_style5_fresh_test/Baroque/s21_r0086.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0086
+data/wikiart_style5_fresh_test/Baroque/s21_r0098.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0098
+data/wikiart_style5_fresh_test/Baroque/s21_r0105.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0105
+data/wikiart_style5_fresh_test/Baroque/s21_r0110.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0110
+data/wikiart_style5_fresh_test/Baroque/s21_r0116.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0116
+data/wikiart_style5_fresh_test/Baroque/s21_r0130.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0130
+data/wikiart_style5_fresh_test/Baroque/s21_r0142.jpg,Baroque,0,test,20261034,frans-hals,s21_r0142
+data/wikiart_style5_fresh_test/Baroque/s21_r0163.jpg,Baroque,0,test,20261034,bartolome-esteban-murillo,s21_r0163
+data/wikiart_style5_fresh_test/Baroque/s21_r0189.jpg,Baroque,0,test,20261034,joseph-wright,s21_r0189
+data/wikiart_style5_fresh_test/Baroque/s21_r0192.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0192
+data/wikiart_style5_fresh_test/Baroque/s21_r0242.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0242
+data/wikiart_style5_fresh_test/Baroque/s21_r0245.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0245
+data/wikiart_style5_fresh_test/Baroque/s21_r0257.jpg,Baroque,0,test,20261034,bartolome-esteban-murillo,s21_r0257
+data/wikiart_style5_fresh_test/Baroque/s21_r0263.jpg,Baroque,0,test,20261034,frans-hals,s21_r0263
+data/wikiart_style5_fresh_test/Baroque/s21_r0270.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0270
+data/wikiart_style5_fresh_test/Baroque/s21_r0310.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0310
+data/wikiart_style5_fresh_test/Baroque/s21_r0429.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0429
+data/wikiart_style5_fresh_test/Baroque/s21_r0441.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0441
+data/wikiart_style5_fresh_test/Baroque/s21_r0443.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0443
+data/wikiart_style5_fresh_test/Baroque/s21_r0448.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r0448
+data/wikiart_style5_fresh_test/Baroque/s21_r0454.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0454
+data/wikiart_style5_fresh_test/Baroque/s21_r0458.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r0458
+data/wikiart_style5_fresh_test/Baroque/s21_r0465.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0465
+data/wikiart_style5_fresh_test/Baroque/s21_r0478.jpg,Baroque,0,test,20261034,anthony-van-dyck,s21_r0478
+data/wikiart_style5_fresh_test/Baroque/s21_r0508.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0508
+data/wikiart_style5_fresh_test/Baroque/s21_r0514.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0514
+data/wikiart_style5_fresh_test/Baroque/s21_r0516.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0516
+data/wikiart_style5_fresh_test/Baroque/s21_r0523.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0523
+data/wikiart_style5_fresh_test/Baroque/s21_r0531.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0531
+data/wikiart_style5_fresh_test/Baroque/s21_r0538.jpg,Baroque,0,test,20261034,frans-hals,s21_r0538
+data/wikiart_style5_fresh_test/Baroque/s21_r0579.jpg,Baroque,0,test,20261034,anthony-van-dyck,s21_r0579
+data/wikiart_style5_fresh_test/Baroque/s21_r0591.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0591
+data/wikiart_style5_fresh_test/Baroque/s21_r0619.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0619
+data/wikiart_style5_fresh_test/Baroque/s21_r0653.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0653
+data/wikiart_style5_fresh_test/Baroque/s21_r0678.jpg,Baroque,0,test,20261034,frans-hals,s21_r0678
+data/wikiart_style5_fresh_test/Baroque/s21_r0686.jpg,Baroque,0,test,20261034,bartolome-esteban-murillo,s21_r0686
+data/wikiart_style5_fresh_test/Baroque/s21_r0689.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r0689
+data/wikiart_style5_fresh_test/Baroque/s21_r0694.jpg,Baroque,0,test,20261034,jacob-jordaens,s21_r0694
+data/wikiart_style5_fresh_test/Baroque/s21_r0696.jpg,Baroque,0,test,20261034,jacob-jordaens,s21_r0696
+data/wikiart_style5_fresh_test/Baroque/s21_r0719.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0719
+data/wikiart_style5_fresh_test/Baroque/s21_r0725.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0725
+data/wikiart_style5_fresh_test/Baroque/s21_r0763.jpg,Baroque,0,test,20261034,anthony-van-dyck,s21_r0763
+data/wikiart_style5_fresh_test/Baroque/s21_r0799.jpg,Baroque,0,test,20261034,frans-hals,s21_r0799
+data/wikiart_style5_fresh_test/Baroque/s21_r0816.jpg,Baroque,0,test,20261034,anthony-van-dyck,s21_r0816
+data/wikiart_style5_fresh_test/Baroque/s21_r0820.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0820
+data/wikiart_style5_fresh_test/Baroque/s21_r0846.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0846
+data/wikiart_style5_fresh_test/Baroque/s21_r0864.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0864
+data/wikiart_style5_fresh_test/Baroque/s21_r0875.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0875
+data/wikiart_style5_fresh_test/Baroque/s21_r0876.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r0876
+data/wikiart_style5_fresh_test/Baroque/s21_r0897.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0897
+data/wikiart_style5_fresh_test/Baroque/s21_r0930.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0930
+data/wikiart_style5_fresh_test/Baroque/s21_r0945.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0945
+data/wikiart_style5_fresh_test/Baroque/s21_r0992.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r0992
+data/wikiart_style5_fresh_test/Baroque/s21_r0993.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r0993
+data/wikiart_style5_fresh_test/Baroque/s21_r1014.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r1014
+data/wikiart_style5_fresh_test/Baroque/s21_r1018.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r1018
+data/wikiart_style5_fresh_test/Baroque/s21_r1030.jpg,Baroque,0,test,20261034,bartolome-esteban-murillo,s21_r1030
+data/wikiart_style5_fresh_test/Baroque/s21_r1041.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r1041
+data/wikiart_style5_fresh_test/Baroque/s21_r1077.jpg,Baroque,0,test,20261034,frans-hals,s21_r1077
+data/wikiart_style5_fresh_test/Baroque/s21_r1093.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r1093
+data/wikiart_style5_fresh_test/Baroque/s21_r1098.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r1098
+data/wikiart_style5_fresh_test/Baroque/s21_r1102.jpg,Baroque,0,test,20261034,Unknown Artist,s21_r1102
+data/wikiart_style5_fresh_test/Baroque/s21_r1116.jpg,Baroque,0,test,20261034,peter-paul-rubens,s21_r1116
+data/wikiart_style5_fresh_test/Baroque/s29_r0020.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0020
+data/wikiart_style5_fresh_test/Baroque/s29_r0049.jpg,Baroque,0,test,20261034,peter-paul-rubens,s29_r0049
+data/wikiart_style5_fresh_test/Baroque/s29_r0102.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0102
+data/wikiart_style5_fresh_test/Baroque/s29_r0129.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0129
+data/wikiart_style5_fresh_test/Baroque/s29_r0247.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0247
+data/wikiart_style5_fresh_test/Baroque/s29_r0278.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0278
+data/wikiart_style5_fresh_test/Baroque/s29_r0315.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0315
+data/wikiart_style5_fresh_test/Baroque/s29_r0328.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0328
+data/wikiart_style5_fresh_test/Baroque/s29_r0337.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0337
+data/wikiart_style5_fresh_test/Baroque/s29_r0365.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0365
+data/wikiart_style5_fresh_test/Baroque/s29_r0374.jpg,Baroque,0,test,20261034,jacob-jordaens,s29_r0374
+data/wikiart_style5_fresh_test/Baroque/s29_r0391.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0391
+data/wikiart_style5_fresh_test/Baroque/s29_r0431.jpg,Baroque,0,test,20261034,peter-paul-rubens,s29_r0431
+data/wikiart_style5_fresh_test/Baroque/s29_r0497.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0497
+data/wikiart_style5_fresh_test/Baroque/s29_r0576.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0576
+data/wikiart_style5_fresh_test/Baroque/s29_r0635.jpg,Baroque,0,test,20261034,peter-paul-rubens,s29_r0635
+data/wikiart_style5_fresh_test/Baroque/s29_r0643.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0643
+data/wikiart_style5_fresh_test/Baroque/s29_r0700.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0700
+data/wikiart_style5_fresh_test/Baroque/s29_r0755.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0755
+data/wikiart_style5_fresh_test/Baroque/s29_r0756.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0756
+data/wikiart_style5_fresh_test/Baroque/s29_r0768.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0768
+data/wikiart_style5_fresh_test/Baroque/s29_r0774.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0774
+data/wikiart_style5_fresh_test/Baroque/s29_r0782.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0782
+data/wikiart_style5_fresh_test/Baroque/s29_r0791.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0791
+data/wikiart_style5_fresh_test/Baroque/s29_r0798.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0798
+data/wikiart_style5_fresh_test/Baroque/s29_r0855.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0855
+data/wikiart_style5_fresh_test/Baroque/s29_r0870.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r0870
+data/wikiart_style5_fresh_test/Baroque/s29_r0919.jpg,Baroque,0,test,20261034,peter-paul-rubens,s29_r0919
+data/wikiart_style5_fresh_test/Baroque/s29_r1019.jpg,Baroque,0,test,20261034,bartolome-esteban-murillo,s29_r1019
+data/wikiart_style5_fresh_test/Baroque/s29_r1093.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r1093
+data/wikiart_style5_fresh_test/Baroque/s29_r1117.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r1117
+data/wikiart_style5_fresh_test/Baroque/s29_r1129.jpg,Baroque,0,test,20261034,Unknown Artist,s29_r1129
+data/wikiart_style5_fresh_test/Cubism/s21_r0139.jpg,Cubism,1,test,20261034,fernand-leger,s21_r0139
+data/wikiart_style5_fresh_test/Cubism/s21_r0185.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0185
+data/wikiart_style5_fresh_test/Cubism/s21_r0230.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0230
+data/wikiart_style5_fresh_test/Cubism/s21_r0262.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0262
+data/wikiart_style5_fresh_test/Cubism/s21_r0295.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0295
+data/wikiart_style5_fresh_test/Cubism/s21_r0301.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0301
+data/wikiart_style5_fresh_test/Cubism/s21_r0303.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0303
+data/wikiart_style5_fresh_test/Cubism/s21_r0325.jpg,Cubism,1,test,20261034,fernand-leger,s21_r0325
+data/wikiart_style5_fresh_test/Cubism/s21_r0372.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0372
+data/wikiart_style5_fresh_test/Cubism/s21_r0387.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0387
+data/wikiart_style5_fresh_test/Cubism/s21_r0388.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0388
+data/wikiart_style5_fresh_test/Cubism/s21_r0392.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0392
+data/wikiart_style5_fresh_test/Cubism/s21_r0393.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0393
+data/wikiart_style5_fresh_test/Cubism/s21_r0497.jpg,Cubism,1,test,20261034,georges-braque,s21_r0497
+data/wikiart_style5_fresh_test/Cubism/s21_r0511.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0511
+data/wikiart_style5_fresh_test/Cubism/s21_r0558.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0558
+data/wikiart_style5_fresh_test/Cubism/s21_r0574.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0574
+data/wikiart_style5_fresh_test/Cubism/s21_r0624.jpg,Cubism,1,test,20261034,fernand-leger,s21_r0624
+data/wikiart_style5_fresh_test/Cubism/s21_r0645.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0645
+data/wikiart_style5_fresh_test/Cubism/s21_r0662.jpg,Cubism,1,test,20261034,ernst-ludwig-kirchner,s21_r0662
+data/wikiart_style5_fresh_test/Cubism/s21_r0831.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0831
+data/wikiart_style5_fresh_test/Cubism/s21_r0935.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0935
+data/wikiart_style5_fresh_test/Cubism/s21_r0936.jpg,Cubism,1,test,20261034,m.c.-escher,s21_r0936
+data/wikiart_style5_fresh_test/Cubism/s21_r0950.jpg,Cubism,1,test,20261034,fernand-leger,s21_r0950
+data/wikiart_style5_fresh_test/Cubism/s21_r0955.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0955
+data/wikiart_style5_fresh_test/Cubism/s21_r0977.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0977
+data/wikiart_style5_fresh_test/Cubism/s21_r0988.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r0988
+data/wikiart_style5_fresh_test/Cubism/s21_r1033.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r1033
+data/wikiart_style5_fresh_test/Cubism/s21_r1046.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r1046
+data/wikiart_style5_fresh_test/Cubism/s21_r1051.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r1051
+data/wikiart_style5_fresh_test/Cubism/s21_r1083.jpg,Cubism,1,test,20261034,fernand-leger,s21_r1083
+data/wikiart_style5_fresh_test/Cubism/s21_r1089.jpg,Cubism,1,test,20261034,Unknown Artist,s21_r1089
+data/wikiart_style5_fresh_test/Cubism/s29_r0047.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0047
+data/wikiart_style5_fresh_test/Cubism/s29_r0100.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0100
+data/wikiart_style5_fresh_test/Cubism/s29_r0151.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0151
+data/wikiart_style5_fresh_test/Cubism/s29_r0158.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0158
+data/wikiart_style5_fresh_test/Cubism/s29_r0186.jpg,Cubism,1,test,20261034,georges-braque,s29_r0186
+data/wikiart_style5_fresh_test/Cubism/s29_r0246.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0246
+data/wikiart_style5_fresh_test/Cubism/s29_r0259.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0259
+data/wikiart_style5_fresh_test/Cubism/s29_r0260.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0260
+data/wikiart_style5_fresh_test/Cubism/s29_r0309.jpg,Cubism,1,test,20261034,fernand-leger,s29_r0309
+data/wikiart_style5_fresh_test/Cubism/s29_r0351.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0351
+data/wikiart_style5_fresh_test/Cubism/s29_r0393.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0393
+data/wikiart_style5_fresh_test/Cubism/s29_r0433.jpg,Cubism,1,test,20261034,fernand-leger,s29_r0433
+data/wikiart_style5_fresh_test/Cubism/s29_r0454.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0454
+data/wikiart_style5_fresh_test/Cubism/s29_r0462.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0462
+data/wikiart_style5_fresh_test/Cubism/s29_r0483.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0483
+data/wikiart_style5_fresh_test/Cubism/s29_r0512.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0512
+data/wikiart_style5_fresh_test/Cubism/s29_r0522.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0522
+data/wikiart_style5_fresh_test/Cubism/s29_r0561.jpg,Cubism,1,test,20261034,raoul-dufy,s29_r0561
+data/wikiart_style5_fresh_test/Cubism/s29_r0600.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0600
+data/wikiart_style5_fresh_test/Cubism/s29_r0616.jpg,Cubism,1,test,20261034,juan-gris,s29_r0616
+data/wikiart_style5_fresh_test/Cubism/s29_r0654.jpg,Cubism,1,test,20261034,Unknown Artist,s29_r0654
+data/wikiart_style5_fresh_test/Cubism/s29_r0725.jpg,Cubism,1,test,20261034,fernand-leger,s29_r0725
+data/wikiart_style5_fresh_test/Cubism/s29_r0788.jpg,Cubism,1,test,20261034,georges-braque,s29_r0788
+data/wikiart_style5_fresh_test/Cubism/s29_r0799.jpg,Cubism,1,test,20261034,ernst-ludwig-kirchner,s29_r0799
+data/wikiart_style5_fresh_test/Cubism/s29_r0879.jpg,Cubism,1,test,20261034,georges-braque,s29_r0879
+data/wikiart_style5_fresh_test/Cubism/s29_r0994.jpg,Cubism,1,test,20261034,juan-gris,s29_r0994
+data/wikiart_style5_fresh_test/Cubism/s29_r1041.jpg,Cubism,1,test,20261034,henri-matisse,s29_r1041
+data/wikiart_style5_fresh_test/Cubism/s29_r1116.jpg,Cubism,1,test,20261034,georges-braque,s29_r1116
+data/wikiart_style5_fresh_test/Cubism/s30_r0144.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0144
+data/wikiart_style5_fresh_test/Cubism/s30_r0160.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0160
+data/wikiart_style5_fresh_test/Cubism/s30_r0168.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0168
+data/wikiart_style5_fresh_test/Cubism/s30_r0173.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0173
+data/wikiart_style5_fresh_test/Cubism/s30_r0205.jpg,Cubism,1,test,20261034,ernst-ludwig-kirchner,s30_r0205
+data/wikiart_style5_fresh_test/Cubism/s30_r0355.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0355
+data/wikiart_style5_fresh_test/Cubism/s30_r0371.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0371
+data/wikiart_style5_fresh_test/Cubism/s30_r0409.jpg,Cubism,1,test,20261034,juan-gris,s30_r0409
+data/wikiart_style5_fresh_test/Cubism/s30_r0419.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0419
+data/wikiart_style5_fresh_test/Cubism/s30_r0463.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0463
+data/wikiart_style5_fresh_test/Cubism/s30_r0466.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0466
+data/wikiart_style5_fresh_test/Cubism/s30_r0516.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0516
+data/wikiart_style5_fresh_test/Cubism/s30_r0523.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0523
+data/wikiart_style5_fresh_test/Cubism/s30_r0524.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0524
+data/wikiart_style5_fresh_test/Cubism/s30_r0554.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0554
+data/wikiart_style5_fresh_test/Cubism/s30_r0611.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0611
+data/wikiart_style5_fresh_test/Cubism/s30_r0612.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0612
+data/wikiart_style5_fresh_test/Cubism/s30_r0624.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0624
+data/wikiart_style5_fresh_test/Cubism/s30_r0638.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0638
+data/wikiart_style5_fresh_test/Cubism/s30_r0643.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0643
+data/wikiart_style5_fresh_test/Cubism/s30_r0666.jpg,Cubism,1,test,20261034,georges-braque,s30_r0666
+data/wikiart_style5_fresh_test/Cubism/s30_r0672.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0672
+data/wikiart_style5_fresh_test/Cubism/s30_r0678.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0678
+data/wikiart_style5_fresh_test/Cubism/s30_r0692.jpg,Cubism,1,test,20261034,raoul-dufy,s30_r0692
+data/wikiart_style5_fresh_test/Cubism/s30_r0739.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0739
+data/wikiart_style5_fresh_test/Cubism/s30_r0748.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0748
+data/wikiart_style5_fresh_test/Cubism/s30_r0768.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0768
+data/wikiart_style5_fresh_test/Cubism/s30_r0803.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0803
+data/wikiart_style5_fresh_test/Cubism/s30_r0856.jpg,Cubism,1,test,20261034,georges-braque,s30_r0856
+data/wikiart_style5_fresh_test/Cubism/s30_r0897.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0897
+data/wikiart_style5_fresh_test/Cubism/s30_r0899.jpg,Cubism,1,test,20261034,fernand-leger,s30_r0899
+data/wikiart_style5_fresh_test/Cubism/s30_r0903.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0903
+data/wikiart_style5_fresh_test/Cubism/s30_r0937.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0937
+data/wikiart_style5_fresh_test/Cubism/s30_r0951.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0951
+data/wikiart_style5_fresh_test/Cubism/s30_r0967.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r0967
+data/wikiart_style5_fresh_test/Cubism/s30_r1050.jpg,Cubism,1,test,20261034,raoul-dufy,s30_r1050
+data/wikiart_style5_fresh_test/Cubism/s30_r1067.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r1067
+data/wikiart_style5_fresh_test/Cubism/s30_r1077.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r1077
+data/wikiart_style5_fresh_test/Cubism/s30_r1084.jpg,Cubism,1,test,20261034,fernand-leger,s30_r1084
+data/wikiart_style5_fresh_test/Cubism/s30_r1093.jpg,Cubism,1,test,20261034,Unknown Artist,s30_r1093
+data/wikiart_style5_fresh_test/Impressionism/s21_r0003.jpg,Impressionism,2,test,20261034,john-henry-twachtman,s21_r0003
+data/wikiart_style5_fresh_test/Impressionism/s21_r0023.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0023
+data/wikiart_style5_fresh_test/Impressionism/s21_r0038.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0038
+data/wikiart_style5_fresh_test/Impressionism/s21_r0056.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0056
+data/wikiart_style5_fresh_test/Impressionism/s21_r0066.jpg,Impressionism,2,test,20261034,gustave-caillebotte,s21_r0066
+data/wikiart_style5_fresh_test/Impressionism/s21_r0075.jpg,Impressionism,2,test,20261034,paul-gauguin,s21_r0075
+data/wikiart_style5_fresh_test/Impressionism/s21_r0076.jpg,Impressionism,2,test,20261034,william-merritt-chase,s21_r0076
+data/wikiart_style5_fresh_test/Impressionism/s21_r0083.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0083
+data/wikiart_style5_fresh_test/Impressionism/s21_r0091.jpg,Impressionism,2,test,20261034,gustave-caillebotte,s21_r0091
+data/wikiart_style5_fresh_test/Impressionism/s21_r0096.jpg,Impressionism,2,test,20261034,henri-martin,s21_r0096
+data/wikiart_style5_fresh_test/Impressionism/s21_r0097.jpg,Impressionism,2,test,20261034,giovanni-boldini,s21_r0097
+data/wikiart_style5_fresh_test/Impressionism/s21_r0120.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0120
+data/wikiart_style5_fresh_test/Impressionism/s21_r0136.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0136
+data/wikiart_style5_fresh_test/Impressionism/s21_r0138.jpg,Impressionism,2,test,20261034,berthe-morisot,s21_r0138
+data/wikiart_style5_fresh_test/Impressionism/s21_r0145.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0145
+data/wikiart_style5_fresh_test/Impressionism/s21_r0147.jpg,Impressionism,2,test,20261034,william-merritt-chase,s21_r0147
+data/wikiart_style5_fresh_test/Impressionism/s21_r0156.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0156
+data/wikiart_style5_fresh_test/Impressionism/s21_r0180.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0180
+data/wikiart_style5_fresh_test/Impressionism/s21_r0184.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0184
+data/wikiart_style5_fresh_test/Impressionism/s21_r0201.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0201
+data/wikiart_style5_fresh_test/Impressionism/s21_r0222.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0222
+data/wikiart_style5_fresh_test/Impressionism/s21_r0239.jpg,Impressionism,2,test,20261034,konstantin-korovin,s21_r0239
+data/wikiart_style5_fresh_test/Impressionism/s21_r0244.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0244
+data/wikiart_style5_fresh_test/Impressionism/s21_r0252.jpg,Impressionism,2,test,20261034,valentin-serov,s21_r0252
+data/wikiart_style5_fresh_test/Impressionism/s21_r0258.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0258
+data/wikiart_style5_fresh_test/Impressionism/s21_r0272.jpg,Impressionism,2,test,20261034,berthe-morisot,s21_r0272
+data/wikiart_style5_fresh_test/Impressionism/s21_r0287.jpg,Impressionism,2,test,20261034,john-henry-twachtman,s21_r0287
+data/wikiart_style5_fresh_test/Impressionism/s21_r0290.jpg,Impressionism,2,test,20261034,william-merritt-chase,s21_r0290
+data/wikiart_style5_fresh_test/Impressionism/s21_r0321.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0321
+data/wikiart_style5_fresh_test/Impressionism/s21_r0338.jpg,Impressionism,2,test,20261034,maurice-prendergast,s21_r0338
+data/wikiart_style5_fresh_test/Impressionism/s21_r0344.jpg,Impressionism,2,test,20261034,konstantin-korovin,s21_r0344
+data/wikiart_style5_fresh_test/Impressionism/s21_r0348.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0348
+data/wikiart_style5_fresh_test/Impressionism/s21_r0354.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0354
+data/wikiart_style5_fresh_test/Impressionism/s21_r0379.jpg,Impressionism,2,test,20261034,henri-de-toulouse-lautrec,s21_r0379
+data/wikiart_style5_fresh_test/Impressionism/s21_r0382.jpg,Impressionism,2,test,20261034,joaquã­n-sorolla,s21_r0382
+data/wikiart_style5_fresh_test/Impressionism/s21_r0399.jpg,Impressionism,2,test,20261034,maurice-prendergast,s21_r0399
+data/wikiart_style5_fresh_test/Impressionism/s21_r0446.jpg,Impressionism,2,test,20261034,edouard-manet,s21_r0446
+data/wikiart_style5_fresh_test/Impressionism/s21_r0451.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0451
+data/wikiart_style5_fresh_test/Impressionism/s21_r0515.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0515
+data/wikiart_style5_fresh_test/Impressionism/s21_r0526.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0526
+data/wikiart_style5_fresh_test/Impressionism/s21_r0548.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0548
+data/wikiart_style5_fresh_test/Impressionism/s21_r0553.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0553
+data/wikiart_style5_fresh_test/Impressionism/s21_r0565.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0565
+data/wikiart_style5_fresh_test/Impressionism/s21_r0568.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0568
+data/wikiart_style5_fresh_test/Impressionism/s21_r0577.jpg,Impressionism,2,test,20261034,arkhip-kuindzhi,s21_r0577
+data/wikiart_style5_fresh_test/Impressionism/s21_r0604.jpg,Impressionism,2,test,20261034,gustave-caillebotte,s21_r0604
+data/wikiart_style5_fresh_test/Impressionism/s21_r0617.jpg,Impressionism,2,test,20261034,giovanni-boldini,s21_r0617
+data/wikiart_style5_fresh_test/Impressionism/s21_r0632.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0632
+data/wikiart_style5_fresh_test/Impressionism/s21_r0638.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0638
+data/wikiart_style5_fresh_test/Impressionism/s21_r0642.jpg,Impressionism,2,test,20261034,egon-schiele,s21_r0642
+data/wikiart_style5_fresh_test/Impressionism/s21_r0643.jpg,Impressionism,2,test,20261034,berthe-morisot,s21_r0643
+data/wikiart_style5_fresh_test/Impressionism/s21_r0658.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0658
+data/wikiart_style5_fresh_test/Impressionism/s21_r0668.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0668
+data/wikiart_style5_fresh_test/Impressionism/s21_r0674.jpg,Impressionism,2,test,20261034,giovanni-boldini,s21_r0674
+data/wikiart_style5_fresh_test/Impressionism/s21_r0692.jpg,Impressionism,2,test,20261034,ilya-mashkov,s21_r0692
+data/wikiart_style5_fresh_test/Impressionism/s21_r0695.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0695
+data/wikiart_style5_fresh_test/Impressionism/s21_r0705.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0705
+data/wikiart_style5_fresh_test/Impressionism/s21_r0727.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0727
+data/wikiart_style5_fresh_test/Impressionism/s21_r0755.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0755
+data/wikiart_style5_fresh_test/Impressionism/s21_r0756.jpg,Impressionism,2,test,20261034,giovanni-boldini,s21_r0756
+data/wikiart_style5_fresh_test/Impressionism/s21_r0761.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0761
+data/wikiart_style5_fresh_test/Impressionism/s21_r0768.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0768
+data/wikiart_style5_fresh_test/Impressionism/s21_r0769.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0769
+data/wikiart_style5_fresh_test/Impressionism/s21_r0774.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0774
+data/wikiart_style5_fresh_test/Impressionism/s21_r0781.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0781
+data/wikiart_style5_fresh_test/Impressionism/s21_r0787.jpg,Impressionism,2,test,20261034,isaac-levitan,s21_r0787
+data/wikiart_style5_fresh_test/Impressionism/s21_r0788.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0788
+data/wikiart_style5_fresh_test/Impressionism/s21_r0798.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0798
+data/wikiart_style5_fresh_test/Impressionism/s21_r0801.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0801
+data/wikiart_style5_fresh_test/Impressionism/s21_r0805.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0805
+data/wikiart_style5_fresh_test/Impressionism/s21_r0808.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0808
+data/wikiart_style5_fresh_test/Impressionism/s21_r0811.jpg,Impressionism,2,test,20261034,henri-matisse,s21_r0811
+data/wikiart_style5_fresh_test/Impressionism/s21_r0812.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0812
+data/wikiart_style5_fresh_test/Impressionism/s21_r0841.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0841
+data/wikiart_style5_fresh_test/Impressionism/s21_r0847.jpg,Impressionism,2,test,20261034,edouard-manet,s21_r0847
+data/wikiart_style5_fresh_test/Impressionism/s21_r0865.jpg,Impressionism,2,test,20261034,william-merritt-chase,s21_r0865
+data/wikiart_style5_fresh_test/Impressionism/s21_r0867.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0867
+data/wikiart_style5_fresh_test/Impressionism/s21_r0885.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0885
+data/wikiart_style5_fresh_test/Impressionism/s21_r0896.jpg,Impressionism,2,test,20261034,mary-cassatt,s21_r0896
+data/wikiart_style5_fresh_test/Impressionism/s21_r0902.jpg,Impressionism,2,test,20261034,john-henry-twachtman,s21_r0902
+data/wikiart_style5_fresh_test/Impressionism/s21_r0914.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0914
+data/wikiart_style5_fresh_test/Impressionism/s21_r0916.jpg,Impressionism,2,test,20261034,valentin-serov,s21_r0916
+data/wikiart_style5_fresh_test/Impressionism/s21_r0964.jpg,Impressionism,2,test,20261034,alfred-sisley,s21_r0964
+data/wikiart_style5_fresh_test/Impressionism/s21_r0976.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r0976
+data/wikiart_style5_fresh_test/Impressionism/s21_r1004.jpg,Impressionism,2,test,20261034,konstantin-korovin,s21_r1004
+data/wikiart_style5_fresh_test/Impressionism/s21_r1015.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1015
+data/wikiart_style5_fresh_test/Impressionism/s21_r1021.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1021
+data/wikiart_style5_fresh_test/Impressionism/s21_r1025.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1025
+data/wikiart_style5_fresh_test/Impressionism/s21_r1029.jpg,Impressionism,2,test,20261034,joaquã­n-sorolla,s21_r1029
+data/wikiart_style5_fresh_test/Impressionism/s21_r1040.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1040
+data/wikiart_style5_fresh_test/Impressionism/s21_r1052.jpg,Impressionism,2,test,20261034,berthe-morisot,s21_r1052
+data/wikiart_style5_fresh_test/Impressionism/s21_r1061.jpg,Impressionism,2,test,20261034,william-merritt-chase,s21_r1061
+data/wikiart_style5_fresh_test/Impressionism/s21_r1070.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1070
+data/wikiart_style5_fresh_test/Impressionism/s21_r1078.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1078
+data/wikiart_style5_fresh_test/Impressionism/s21_r1082.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1082
+data/wikiart_style5_fresh_test/Impressionism/s21_r1091.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1091
+data/wikiart_style5_fresh_test/Impressionism/s21_r1103.jpg,Impressionism,2,test,20261034,antoine-blanchard,s21_r1103
+data/wikiart_style5_fresh_test/Impressionism/s21_r1113.jpg,Impressionism,2,test,20261034,william-merritt-chase,s21_r1113
+data/wikiart_style5_fresh_test/Impressionism/s21_r1114.jpg,Impressionism,2,test,20261034,berthe-morisot,s21_r1114
+data/wikiart_style5_fresh_test/Impressionism/s21_r1115.jpg,Impressionism,2,test,20261034,Unknown Artist,s21_r1115
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0020.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0020
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0069.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0069
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0173.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0173
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0327.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0327
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0474.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0474
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0506.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0506
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0628.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0628
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0664.jpg,Pop_Art,3,test,20261034,andy-warhol,s21_r0664
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0682.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0682
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0708.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0708
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0711.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0711
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0861.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0861
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0909.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0909
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0924.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0924
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0925.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0925
+data/wikiart_style5_fresh_test/Pop_Art/s21_r0981.jpg,Pop_Art,3,test,20261034,Unknown Artist,s21_r0981
+data/wikiart_style5_fresh_test/Pop_Art/s21_r1016.jpg,Pop_Art,3,test,20261034,andy-warhol,s21_r1016
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0023.jpg,Pop_Art,3,test,20261034,andy-warhol,s29_r0023
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0025.jpg,Pop_Art,3,test,20261034,andy-warhol,s29_r0025
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0040.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r0040
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0089.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r0089
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0098.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r0098
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0233.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r0233
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0345.jpg,Pop_Art,3,test,20261034,andy-warhol,s29_r0345
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0517.jpg,Pop_Art,3,test,20261034,andy-warhol,s29_r0517
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0530.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r0530
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0836.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r0836
+data/wikiart_style5_fresh_test/Pop_Art/s29_r0925.jpg,Pop_Art,3,test,20261034,andy-warhol,s29_r0925
+data/wikiart_style5_fresh_test/Pop_Art/s29_r1039.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r1039
+data/wikiart_style5_fresh_test/Pop_Art/s29_r1044.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r1044
+data/wikiart_style5_fresh_test/Pop_Art/s29_r1069.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r1069
+data/wikiart_style5_fresh_test/Pop_Art/s29_r1077.jpg,Pop_Art,3,test,20261034,Unknown Artist,s29_r1077
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0073.jpg,Pop_Art,3,test,20261034,andy-warhol,s30_r0073
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0089.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0089
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0108.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0108
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0214.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0214
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0319.jpg,Pop_Art,3,test,20261034,andy-warhol,s30_r0319
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0338.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0338
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0412.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0412
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0451.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0451
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0539.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0539
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0687.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0687
+data/wikiart_style5_fresh_test/Pop_Art/s30_r0732.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r0732
+data/wikiart_style5_fresh_test/Pop_Art/s30_r1019.jpg,Pop_Art,3,test,20261034,Unknown Artist,s30_r1019
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0240.jpg,Pop_Art,3,test,20261034,andy-warhol,s36_r0240
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0577.jpg,Pop_Art,3,test,20261034,Unknown Artist,s36_r0577
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0689.jpg,Pop_Art,3,test,20261034,Unknown Artist,s36_r0689
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0741.jpg,Pop_Art,3,test,20261034,Unknown Artist,s36_r0741
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0856.jpg,Pop_Art,3,test,20261034,Unknown Artist,s36_r0856
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0898.jpg,Pop_Art,3,test,20261034,Unknown Artist,s36_r0898
+data/wikiart_style5_fresh_test/Pop_Art/s36_r0971.jpg,Pop_Art,3,test,20261034,Unknown Artist,s36_r0971
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0003.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0003
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0029.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0029
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0064.jpg,Pop_Art,3,test,20261034,andy-warhol,s40_r0064
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0109.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0109
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0128.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0128
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0216.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0216
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0398.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0398
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0433.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0433
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0495.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0495
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0506.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0506
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0507.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0507
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0534.jpg,Pop_Art,3,test,20261034,andy-warhol,s40_r0534
+data/wikiart_style5_fresh_test/Pop_Art/s40_r0535.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r0535
+data/wikiart_style5_fresh_test/Pop_Art/s40_r1087.jpg,Pop_Art,3,test,20261034,andy-warhol,s40_r1087
+data/wikiart_style5_fresh_test/Pop_Art/s40_r1101.jpg,Pop_Art,3,test,20261034,Unknown Artist,s40_r1101
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0018.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0018
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0030.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0030
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0047.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0047
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0073.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0073
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0083.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0083
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0089.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0089
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0145.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0145
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0165.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0165
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0177.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0177
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0218.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0218
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0268.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0268
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0311.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0311
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0312.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0312
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0444.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0444
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0501.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0501
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0549.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0549
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0572.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0572
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0577.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0577
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0582.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0582
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0624.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0624
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0694.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0694
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0707.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0707
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0724.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0724
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0783.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0783
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0787.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0787
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0796.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0796
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0805.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0805
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0815.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0815
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0839.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0839
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0856.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0856
+data/wikiart_style5_fresh_test/Pop_Art/s65_r0925.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r0925
+data/wikiart_style5_fresh_test/Pop_Art/s65_r1017.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r1017
+data/wikiart_style5_fresh_test/Pop_Art/s65_r1024.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r1024
+data/wikiart_style5_fresh_test/Pop_Art/s65_r1113.jpg,Pop_Art,3,test,20261034,Unknown Artist,s65_r1113
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0049.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0049
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0080.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r0080
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0111.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0111
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0172.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0172
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0225.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0225
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0281.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r0281
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0306.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0306
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0376.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0376
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0386.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0386
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0492.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r0492
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0505.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r0505
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0573.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0573
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0589.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0589
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0620.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0620
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0716.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0716
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0730.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0730
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0735.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s21_r0735
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0766.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r0766
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0796.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0796
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0845.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r0845
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0877.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0877
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r0953.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r0953
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r1059.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s21_r1059
+data/wikiart_style5_fresh_test/Ukiyo_e/s21_r1128.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s21_r1128
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0122.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0122
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0155.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0155
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0263.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0263
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0399.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0399
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0449.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0449
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0452.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0452
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0481.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0481
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0485.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0485
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0662.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0662
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0689.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0689
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0699.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0699
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0717.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r0717
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0763.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0763
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0766.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0766
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0809.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s29_r0809
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0862.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r0862
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r0867.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s29_r0867
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r1004.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s29_r1004
+data/wikiart_style5_fresh_test/Ukiyo_e/s29_r1122.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s29_r1122
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0039.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s30_r0039
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0067.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0067
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0075.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s30_r0075
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0115.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0115
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0134.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0134
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0271.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0271
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0350.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s30_r0350
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0562.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s30_r0562
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0569.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0569
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0586.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0586
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0616.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s30_r0616
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0637.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0637
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0701.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s30_r0701
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0860.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s30_r0860
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0870.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s30_r0870
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r0996.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r0996
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r1003.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r1003
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r1010.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s30_r1010
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r1021.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s30_r1021
+data/wikiart_style5_fresh_test/Ukiyo_e/s30_r1057.jpg,Ukiyo_e,4,test,20261034,utagawa-kuniyoshi,s30_r1057
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r0000.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s36_r0000
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r0207.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s36_r0207
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r0332.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s36_r0332
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r0599.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s36_r0599
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r0747.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s36_r0747
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r1010.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s36_r1010
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r1017.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s36_r1017
+data/wikiart_style5_fresh_test/Ukiyo_e/s36_r1114.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s36_r1114
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0120.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0120
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0148.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s40_r0148
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0163.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0163
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0262.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0262
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0289.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s40_r0289
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0401.jpg,Ukiyo_e,4,test,20261034,katsushika-hokusai,s40_r0401
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0656.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0656
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0727.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0727
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0846.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0846
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0899.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0899
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0942.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0942
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0957.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0957
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r0961.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r0961
+data/wikiart_style5_fresh_test/Ukiyo_e/s40_r1039.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s40_r1039
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0061.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0061
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0147.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0147
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0164.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0164
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0252.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0252
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0445.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0445
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0598.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0598
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0600.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0600
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0642.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0642
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0652.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0652
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0717.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0717
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0731.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0731
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0768.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0768
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0858.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0858
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r0961.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r0961
+data/wikiart_style5_fresh_test/Ukiyo_e/s65_r1122.jpg,Ukiyo_e,4,test,20261034,Unknown Artist,s65_r1122

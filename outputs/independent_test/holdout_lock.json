@@ -1,0 +1,42 @@
+{
+  "repo": "huggan/wikiart",
+  "revision": "d559852d2b232e0fcf195e775866964f0564f2b5",
+  "seed": 20261034,
+  "per_class": 100,
+  "classes": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "strategy": "spread",
+  "max_per_artist": 20,
+  "size": 128,
+  "crop": true,
+  "purpose": "independent final test; select no model or hyperparameter using it",
+  "selected_seed": 20261034,
+  "images": 500,
+  "class_counts": {
+    "Baroque": 100,
+    "Cubism": 100,
+    "Impressionism": 100,
+    "Pop_Art": 100,
+    "Ukiyo_e": 100
+  },
+  "excluded_existing_ids": 1500,
+  "duplicate_content_collisions": 0,
+  "overlapping_named_artists": 14,
+  "images_with_named_artist_by_style": {
+    "Baroque": 32,
+    "Cubism": 34,
+    "Impressionism": 57,
+    "Pop_Art": 13,
+    "Ukiyo_e": 40
+  },
+  "manifest": "manifests/wikiart_style5_fresh_test.csv",
+  "manifest_sha256": "bdafd9fdfd4607a4a7d657115c078199b7af50bb6be7d854efbea123dc63bca8",
+  "test_model_predictions": 1,
+  "evaluation_status": "complete",
+  "evaluation_result_sha256": "174f25325acfbccb63c376c2689a9468416e6509907794b34d9b46fb05823a1a"
+}

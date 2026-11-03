@@ -1,0 +1,18 @@
+{
+  "threads": 1,
+  "batch_size": 1,
+  "warmup": 10,
+  "repeats": 100,
+  "validation_images": 10,
+  "includes_disk_io": false,
+  "includes_image_decoding": false,
+  "machine": "arm64",
+  "processor": "arm",
+  "logical_cpus": 8,
+  "python": "3.12.0",
+  "torch": "2.15.0",
+  "numpy": "2.5.4",
+  "sklearn": "1.9.1",
+  "measurement": "median and p95 of single-image prediction, loaded RGB image, no disk I/O or decoding",
+  "checkpoint_format": "uncompressed torch checkpoint or uncompressed joblib classifier"
+}

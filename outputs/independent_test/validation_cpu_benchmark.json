@@ -1,0 +1,26 @@
+{
+  "resnet18_finetuned": {
+    "median_ms": 16.648291501041967,
+    "p95_ms": 26.006614601647016,
+    "checkpoint_mib": 42.71058177947998,
+    "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; transform included, JPEG decoding excluded"
+  },
+  "mobilenet_v3_small": {
+    "median_ms": 11.627582993241958,
+    "p95_ms": 12.067383007524768,
+    "checkpoint_mib": 3.6521482467651367,
+    "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; transform included, JPEG decoding excluded"
+  },
+  "efficientnet_b0": {
+    "median_ms": 41.358021007908974,
+    "p95_ms": 42.750362207880244,
+    "checkpoint_mib": 15.558384895324707,
+    "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; transform included, JPEG decoding excluded"
+  },
+  "hog_svm": {
+    "median_ms": 0.6618545012315735,
+    "p95_ms": 0.6678294390439987,
+    "checkpoint_mib": 0.11181354522705078,
+    "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; HOG extraction included"
+  }
+}

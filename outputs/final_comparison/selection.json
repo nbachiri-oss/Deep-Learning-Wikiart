@@ -1,0 +1,109 @@
+{
+  "models": {
+    "mlp": {
+      "variant": "dropout",
+      "checkpoint": "outputs/mlp_regularization/dropout/checkpoints/best.pt",
+      "checkpoint_sha256": "b0845f99d275dfe0b98a8c4f308b6362e833061b39b221f0103f8b776aa538aa",
+      "validation_accuracy": 0.4222222222222222,
+      "validation_loss": 2.6347432952457006,
+      "parameter_count": 3179525,
+      "config": {
+        "name": "dropout",
+        "dropout": 0.3,
+        "weight_decay": 0.0,
+        "patience": null,
+        "seed": 42,
+        "epochs": 40,
+        "learning_rate": 0.001,
+        "batch_size": 64,
+        "input_size": 64,
+        "normalization_mean": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "normalization_std": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "checkpoint_selection": "validation accuracy, then validation loss",
+        "train_metrics": "eval mode after each epoch"
+      }
+    },
+    "resnet": {
+      "variant": "layer4",
+      "checkpoint": "outputs/resnet18_finetuned/checkpoints/best.pt",
+      "checkpoint_sha256": "2ea53ad515b3b2a229bcf5916345b679f45239d2d61193d47cc88c6fdcc3edb3",
+      "validation_accuracy": 0.7955555555555556,
+      "validation_loss": 0.9334014855490791,
+      "parameter_count": 11179077,
+      "config": {
+        "name": "resnet18_layer4",
+        "seed": 42,
+        "epochs": 20,
+        "learning_rate": 0.0001,
+        "weight_decay": 0.0001,
+        "patience": 5,
+        "batch_size": 32,
+        "extraction_batch_size": 32,
+        "trainable_layers": [
+          "layer4",
+          "fc"
+        ],
+        "batchnorm_running_statistics": "frozen",
+        "initial_checkpoint_is_candidate": true,
+        "checkpoint_selection": "validation accuracy, then validation loss"
+      }
+    },
+    "logistic": {
+      "variant": "C=0.001",
+      "checkpoint": "outputs/logistic_regression/checkpoints/best.joblib",
+      "checkpoint_sha256": "e4a9207c066444ed004fe7a014d9adc6c1a33f83ab46b762e79f51ef0c29efcc",
+      "validation_accuracy": 0.38222222222222224,
+      "validation_loss": 1.5269682296089337,
+      "parameter_count": 61445,
+      "config": {
+        "C_values": [
+          1e-05,
+          0.0001,
+          0.001,
+          0.01,
+          0.1,
+          1.0,
+          10.0
+        ],
+        "solver": "lbfgs",
+        "tol": 0.0001,
+        "max_iter": 1000,
+        "seed": 42,
+        "input_size": 64,
+        "normalization_mean": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "normalization_std": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "features": "flattened RGB pixels",
+        "fit_threads": 1,
+        "selection": "validation accuracy, then validation log loss"
+      }
+    }
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "seed": 42,
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "selection_rule": "best validation accuracy within each family, then lowest validation loss",
+  "refit_on_train_and_validation": false
+}

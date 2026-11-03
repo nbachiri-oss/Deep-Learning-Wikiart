@@ -1,0 +1,17 @@
+{
+  "threads": 1,
+  "batch_size": 1,
+  "warmup": 10,
+  "repeats": 100,
+  "validation_images": 10,
+  "includes_disk_io": false,
+  "includes_image_decoding": false,
+  "machine": "arm64",
+  "processor": "arm",
+  "logical_cpus": 8,
+  "torch": "2.15.0",
+  "sklearn": "1.9.1",
+  "skimage": "0.26.0",
+  "test_images_used": 0,
+  "note": "same timing protocol as the original comparison, measured in a separate run"
+}

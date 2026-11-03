@@ -1,0 +1,90 @@
+{
+  "epochs_run": 13,
+  "best_epoch": 8,
+  "best_validation_accuracy": 0.7955555555555556,
+  "best_validation_loss": 0.9334014855490791,
+  "train_accuracy_at_best_epoch": 1.0,
+  "train_validation_accuracy_gap": 0.20444444444444443,
+  "stopped_early": true,
+  "training_seconds": 30.565914457998588,
+  "model": "ResNet-18 layer4 + fc fine-tuning",
+  "device": "mps",
+  "parameter_count": 11179077,
+  "trainable_parameter_count": 8396293,
+  "feature_extraction_seconds": 3.698388040997088,
+  "frozen_prefix_sha256_before": "7ea461eb8f32cb013ebe2d6984aef697655a8e30bee47de6f3e5a85b681b75bb",
+  "frozen_prefix_sha256_after": "7ea461eb8f32cb013ebe2d6984aef697655a8e30bee47de6f3e5a85b681b75bb",
+  "frozen_prefix_unchanged": true,
+  "batchnorm_buffers_sha256_before": "c53cffb115193f1934837af4fd9cfdb33e835870663d3616e2b58fd1a8d30719",
+  "batchnorm_buffers_sha256_after": "c53cffb115193f1934837af4fd9cfdb33e835870663d3616e2b58fd1a8d30719",
+  "batchnorm_buffers_unchanged": true,
+  "trainable_layers_changed": true,
+  "source_checkpoint": "outputs/resnet18_head/checkpoints/best.pt",
+  "source_checkpoint_sha256": "2aa260740e7fbff3711c53aea3ae84afb2845ab6847d6b03744517c556c45846",
+  "initial_validation_accuracy": 0.7555555555555555,
+  "feature_shapes": {
+    "train": [
+      1050,
+      256,
+      14,
+      14
+    ],
+    "validation": [
+      225,
+      256,
+      14,
+      14
+    ]
+  },
+  "preprocessing": {
+    "resize": [
+      256
+    ],
+    "crop": [
+      224
+    ],
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "config": {
+    "name": "resnet18_layer4",
+    "seed": 42,
+    "epochs": 20,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "patience": 5,
+    "batch_size": 32,
+    "extraction_batch_size": 32,
+    "trainable_layers": [
+      "layer4",
+      "fc"
+    ],
+    "batchnorm_running_statistics": "frozen",
+    "initial_checkpoint_is_candidate": true,
+    "checkpoint_selection": "validation accuracy, then validation loss"
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "test_evaluated": false,
+  "checkpoint": "outputs/resnet18_finetuned/checkpoints/best.pt",
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "python": "3.12.0"
+  }
+}

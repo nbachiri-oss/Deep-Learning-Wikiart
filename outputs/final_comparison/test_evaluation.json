@@ -1,0 +1,48 @@
+{
+  "status": "complete",
+  "started_utc": "2026-10-30T09:00:20+00:00",
+  "selection_sha256": "3b23bedbcee4293df789a501c01e6a15220a16dfd97cc6763927cc539f45ab48",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "test_images": 225,
+  "test_dataset_passes_per_model": 1,
+  "inference_device": "mps",
+  "metrics": {
+    "mlp": {
+      "variant": "dropout",
+      "accuracy": 0.4311111111111111,
+      "macro_f1": 0.4124100119825518,
+      "log_loss": 2.423543930053711,
+      "correct": 97,
+      "total": 225,
+      "accuracy_wilson_95": [
+        0.36809232848672735,
+        0.4964427910020368
+      ]
+    },
+    "resnet": {
+      "variant": "layer4",
+      "accuracy": 0.8,
+      "macro_f1": 0.7991277997364954,
+      "log_loss": 0.8591813445091248,
+      "correct": 180,
+      "total": 225,
+      "accuracy_wilson_95": [
+        0.742893630985402,
+        0.8470340744667537
+      ]
+    },
+    "logistic": {
+      "variant": "C=0.001",
+      "accuracy": 0.40444444444444444,
+      "macro_f1": 0.3943574199758499,
+      "log_loss": 1.4418021793583995,
+      "correct": 91,
+      "total": 225,
+      "accuracy_wilson_95": [
+        0.3424397360084949,
+        0.46965736521785545
+      ]
+    }
+  },
+  "completed_utc": "2026-10-30T09:00:21+00:00"
+}

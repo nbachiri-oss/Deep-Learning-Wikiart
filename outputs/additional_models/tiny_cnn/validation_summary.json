@@ -1,0 +1,50 @@
+{
+  "epochs_run": 30,
+  "best_epoch": 22,
+  "best_validation_accuracy": 0.5333333333333333,
+  "best_validation_loss": 1.2304662174648708,
+  "train_accuracy_at_best_epoch": 0.6247619047619047,
+  "train_validation_accuracy_gap": 0.09142857142857141,
+  "stopped_early": true,
+  "training_seconds": 28.70302716700826,
+  "model": "Small CNN trained from scratch",
+  "device": "mps",
+  "parameter_count": 155429,
+  "config": {
+    "name": "tiny_cnn",
+    "seed": 42,
+    "epochs": 40,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "patience": 8,
+    "batch_size": 64,
+    "input_size": 64,
+    "dropout": 0.3,
+    "normalization_mean": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "normalization_std": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "test_evaluated": false,
+  "checkpoint": "outputs/additional_models/tiny_cnn/checkpoints/best.pt",
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "python": "3.12.0"
+  }
+}

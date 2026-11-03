@@ -1,0 +1,56 @@
+{
+  "model": "Multinomial logistic regression on RGB pixels",
+  "config": {
+    "C_values": [
+      1e-05,
+      0.0001,
+      0.001,
+      0.01,
+      0.1,
+      1.0,
+      10.0
+    ],
+    "solver": "lbfgs",
+    "tol": 0.0001,
+    "max_iter": 1000,
+    "seed": 42,
+    "input_size": 64,
+    "normalization_mean": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "normalization_std": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "features": "flattened RGB pixels",
+    "fit_threads": 1,
+    "selection": "validation accuracy, then validation log loss"
+  },
+  "best_C": 0.001,
+  "best_validation_accuracy": 0.38222222222222224,
+  "best_validation_loss": 1.5269682296089337,
+  "train_accuracy_at_best_epoch": 0.7,
+  "parameter_count": 61445,
+  "iterations": 167,
+  "converged": true,
+  "training_seconds": 15.084101083994028,
+  "test_evaluated": false,
+  "checkpoint": "outputs/logistic_regression/checkpoints/best.joblib",
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "sklearn": "1.9.1",
+    "numpy": "2.5.4",
+    "python": "3.12.0"
+  }
+}

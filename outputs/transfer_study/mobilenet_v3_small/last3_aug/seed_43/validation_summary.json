@@ -1,0 +1,50 @@
+{
+  "model": "mobilenet_v3_small",
+  "architecture": "mobilenet_v3_small",
+  "variant": "last3_aug",
+  "seed": 43,
+  "device": "mps",
+  "epochs_run": 16,
+  "best_epoch": 8,
+  "best_validation_accuracy": 0.76,
+  "best_validation_loss": 0.665758830441369,
+  "train_accuracy_at_best_epoch": 0.9219047619047619,
+  "train_validation_accuracy_gap": 0.16190476190476188,
+  "initial_validation_accuracy": 0.76,
+  "training_seconds": 76.53824083399377,
+  "parameter_count": 929893,
+  "trainable_parameter_count": 647525,
+  "frozen_prefix_unchanged": true,
+  "batchnorm_buffers_unchanged": true,
+  "stopped_early": true,
+  "test_evaluated": false,
+  "config": {
+    "architecture": "mobilenet_v3_small",
+    "variant": "last3_aug",
+    "seed": 43,
+    "layer_start": 10,
+    "max_epochs": 30,
+    "patience": 8,
+    "optimizer": "Adam",
+    "learning_rate_tail": 3e-05,
+    "learning_rate_head": 0.0003,
+    "weight_decay": 0.0001,
+    "trainable_layers": "features[10:] + classifier",
+    "augmentation": true,
+    "training_transform": "light random resized crop, horizontal flip, slight colour jitter"
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "checkpoint": "outputs/transfer_study/mobilenet_v3_small/last3_aug/seed_43/checkpoints/best.pt",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "python": "3.12.0"
+  }
+}

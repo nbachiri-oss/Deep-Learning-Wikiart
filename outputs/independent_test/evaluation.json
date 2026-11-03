@@ -1,0 +1,140 @@
+{
+  "selection_sha256": "f7e91930a83a0af8974981b49d12b0e5b025e34e1a9863503b403c0b8cb215cb",
+  "holdout_manifest_sha256": "bdafd9fdfd4607a4a7d657115c078199b7af50bb6be7d854efbea123dc63bca8",
+  "images": 500,
+  "class_counts": {
+    "Baroque": 100,
+    "Cubism": 100,
+    "Impressionism": 100,
+    "Pop_Art": 100,
+    "Ukiyo_e": 100
+  },
+  "metrics": {
+    "resnet18_finetuned": {
+      "accuracy": 0.796,
+      "accuracy_95_ci": [
+        0.758484663357909,
+        0.8290017270888521
+      ],
+      "macro_f1": 0.7963508317824641,
+      "balanced_accuracy": 0.796,
+      "log_loss": 0.8707896432673141,
+      "correct": 398,
+      "images": 500,
+      "per_style_recall": {
+        "Baroque": 0.8,
+        "Cubism": 0.69,
+        "Impressionism": 0.89,
+        "Pop_Art": 0.75,
+        "Ukiyo_e": 0.85
+      }
+    },
+    "mobilenet_v3_small": {
+      "accuracy": 0.752,
+      "accuracy_95_ci": [
+        0.7123215407533253,
+        0.7878357916540525
+      ],
+      "macro_f1": 0.7514503918799411,
+      "balanced_accuracy": 0.752,
+      "log_loss": 0.6903359862486305,
+      "correct": 376,
+      "images": 500,
+      "per_style_recall": {
+        "Baroque": 0.82,
+        "Cubism": 0.74,
+        "Impressionism": 0.75,
+        "Pop_Art": 0.6,
+        "Ukiyo_e": 0.85
+      }
+    },
+    "efficientnet_b0": {
+      "accuracy": 0.778,
+      "accuracy_95_ci": [
+        0.739530218085007,
+        0.8122306486183701
+      ],
+      "macro_f1": 0.7794421858540159,
+      "balanced_accuracy": 0.7779999999999999,
+      "log_loss": 0.8170438872084087,
+      "correct": 389,
+      "images": 500,
+      "per_style_recall": {
+        "Baroque": 0.77,
+        "Cubism": 0.73,
+        "Impressionism": 0.8,
+        "Pop_Art": 0.71,
+        "Ukiyo_e": 0.88
+      }
+    },
+    "hog_svm": {
+      "accuracy": 0.462,
+      "accuracy_95_ci": [
+        0.41875629515879303,
+        0.505823154716285
+      ],
+      "macro_f1": 0.45359617939982905,
+      "balanced_accuracy": 0.462,
+      "log_loss": null,
+      "correct": 231,
+      "images": 500,
+      "per_style_recall": {
+        "Baroque": 0.69,
+        "Cubism": 0.31,
+        "Impressionism": 0.46,
+        "Pop_Art": 0.34,
+        "Ukiyo_e": 0.51
+      }
+    }
+  },
+  "paired_comparisons_vs_resnet": {
+    "mobilenet_v3_small": {
+      "accuracy_difference_vs_resnet": -0.04400000000000004,
+      "challenger_correct_resnet_wrong": 35,
+      "resnet_correct_challenger_wrong": 57,
+      "mcnemar_exact_p": 0.02801690195894671
+    },
+    "efficientnet_b0": {
+      "accuracy_difference_vs_resnet": -0.018000000000000016,
+      "challenger_correct_resnet_wrong": 33,
+      "resnet_correct_challenger_wrong": 42,
+      "mcnemar_exact_p": 0.3556992390814873
+    },
+    "hog_svm": {
+      "accuracy_difference_vs_resnet": -0.334,
+      "challenger_correct_resnet_wrong": 28,
+      "resnet_correct_challenger_wrong": 195,
+      "mcnemar_exact_p": 5.467227586649534e-32
+    }
+  },
+  "protocol": "one inference pass per model; each test image decoded once; no tuning on holdout",
+  "device": "mps",
+  "cpu_benchmark_validation": {
+    "resnet18_finetuned": {
+      "median_ms": 16.648291501041967,
+      "p95_ms": 26.006614601647016,
+      "checkpoint_mib": 42.71058177947998,
+      "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; transform included, JPEG decoding excluded"
+    },
+    "mobilenet_v3_small": {
+      "median_ms": 11.627582993241958,
+      "p95_ms": 12.067383007524768,
+      "checkpoint_mib": 3.6521482467651367,
+      "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; transform included, JPEG decoding excluded"
+    },
+    "efficientnet_b0": {
+      "median_ms": 41.358021007908974,
+      "p95_ms": 42.750362207880244,
+      "checkpoint_mib": 15.558384895324707,
+      "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; transform included, JPEG decoding excluded"
+    },
+    "hog_svm": {
+      "median_ms": 0.6618545012315735,
+      "p95_ms": 0.6678294390439987,
+      "checkpoint_mib": 0.11181354522705078,
+      "protocol": "CPU, batch 1, one thread, 10 warmups, 100 repeats; HOG extraction included"
+    }
+  },
+  "test_model_predictions": 1,
+  "probability_normalization": "row-wise normalization of saved probabilities; no test images reopened and no model inference repeated"
+}

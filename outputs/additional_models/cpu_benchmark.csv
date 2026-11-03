@@ -1,0 +1,4 @@
+family,variant,model_only_median_ms,model_only_p95_ms,with_preprocessing_median_ms,with_preprocessing_p95_ms,validation_accuracy,parameter_count,checkpoint_bytes,checkpoint_mib,test_evaluated
+tiny_cnn,tiny_cnn,0.337271,0.4104768,0.417292,0.43491250000000004,0.5333333333333333,155429,625557,0.5965776443481445,False
+hog_svm,hog_svm,0.1155835,0.1189851,0.7379374999999999,0.7756191,0.5244444444444445,9065,117245,0.11181354522705078,False
+mobilenet_v3_small_head,mobilenet_v3_small_head,10.7715625,11.2397327,11.6502295,11.86651105,0.76,929893,3830067,3.6526365280151367,False

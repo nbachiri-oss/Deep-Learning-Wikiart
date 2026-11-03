@@ -1,0 +1,49 @@
+{
+  "epochs_run": 33,
+  "best_epoch": 23,
+  "best_validation_accuracy": 0.76,
+  "best_validation_loss": 0.6662853810522291,
+  "train_accuracy_at_best_epoch": 0.8771428571428571,
+  "train_validation_accuracy_gap": 0.1171428571428571,
+  "stopped_early": true,
+  "training_seconds": 1.348828333997517,
+  "model": "MobileNetV3-Small frozen backbone + linear head",
+  "device": "mps",
+  "parameter_count": 929893,
+  "trainable_parameter_count": 2885,
+  "feature_size": 576,
+  "feature_extraction_seconds": 4.211043333998532,
+  "backbone_sha256_before": "7ae31bc504cea00c17be0c9b8b0667bbe506dcf5dd32ec4622e5869fdf8637df",
+  "backbone_sha256_after": "7ae31bc504cea00c17be0c9b8b0667bbe506dcf5dd32ec4622e5869fdf8637df",
+  "backbone_unchanged": true,
+  "config": {
+    "name": "mobilenet_v3_small_head",
+    "seed": 42,
+    "epochs": 60,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "patience": 10,
+    "batch_size": 64,
+    "extraction_batch_size": 32,
+    "weights": "MobileNet_V3_Small_Weights.IMAGENET1K_V1",
+    "trainable_layers": [
+      "classifier"
+    ]
+  },
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ],
+  "test_evaluated": false,
+  "checkpoint": "outputs/additional_models/mobilenet_v3_small_head/checkpoints/best.pt",
+  "manifest": "manifests/wikiart_style5_seed42.csv",
+  "manifest_sha256": "bfe1bd54372a28bd32569dc80b2b16bf4415ac58656cda223cd536f93606ab13",
+  "versions": {
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "python": "3.12.0"
+  }
+}

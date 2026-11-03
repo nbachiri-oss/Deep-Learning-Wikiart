@@ -1,0 +1,50 @@
+{
+  "models": {
+    "mobilenet_v3_small": {
+      "family": "mobilenet_v3_small",
+      "variant": "last3_aug",
+      "seed": 44,
+      "checkpoint": "outputs/transfer_study/mobilenet_v3_small/last3_aug/seed_44/checkpoints/best.pt",
+      "checkpoint_sha256": "8603991fba4f846499f370bca33029be02440af1f13ee9c7fb99f1a14b60bf07",
+      "validation_accuracy": 0.7688888888888888,
+      "parameter_count": 929893
+    },
+    "efficientnet_b0": {
+      "family": "efficientnet_b0",
+      "variant": "last2_aug",
+      "seed": 44,
+      "checkpoint": "outputs/transfer_study/efficientnet_b0/last2_aug/seed_44/checkpoints/best.pt",
+      "checkpoint_sha256": "786f8e11fa28ac93790788193ddf3bea43e2efb6256445be7778459be8432da6",
+      "validation_accuracy": 0.8577777777777778,
+      "parameter_count": 4013953
+    },
+    "resnet18_finetuned": {
+      "family": "resnet18_finetuned",
+      "variant": "layer4",
+      "seed": 42,
+      "checkpoint": "outputs/resnet18_finetuned/checkpoints/best.pt",
+      "checkpoint_sha256": "2ea53ad515b3b2a229bcf5916345b679f45239d2d61193d47cc88c6fdcc3edb3",
+      "validation_accuracy": 0.7955555555555556,
+      "parameter_count": 11179077
+    },
+    "hog_svm": {
+      "family": "hog_svm",
+      "variant": "HOG + RGB histograms",
+      "seed": 42,
+      "checkpoint": "outputs/additional_models/hog_svm/checkpoints/best.joblib",
+      "checkpoint_sha256": "9c3730ab2cb630a1a6a87cba83c7c513ca588ec922236ef5b2d1ed328a832bf9",
+      "validation_accuracy": 0.5244444444444445,
+      "parameter_count": 9065
+    }
+  },
+  "selection": "variant mean validation accuracy; best seed checkpoint",
+  "holdout_manifest_sha256": "bdafd9fdfd4607a4a7d657115c078199b7af50bb6be7d854efbea123dc63bca8",
+  "images": 500,
+  "class_names": [
+    "Baroque",
+    "Cubism",
+    "Impressionism",
+    "Pop_Art",
+    "Ukiyo_e"
+  ]
+}
